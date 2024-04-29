@@ -47,7 +47,7 @@ int main(int argc, char *argv[]) {
     }
 
     InfoProceso procesos[100];      // Arreglo para almacenar información sobre los procesos
-    int num_procesos = 0;           W// Contador para el número de procesos leídos
+    int num_procesos = 0;           // Contador para el número de procesos leídos
 
 
     // Lee información de los procesos desde el archivo y carga en el arreglo
